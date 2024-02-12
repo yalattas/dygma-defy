@@ -1,0 +1,776 @@
+{
+  "device": {
+    "vendor": "Dygma",
+    "product": "Defy",
+    "keyboardType": "wireless",
+    "displayName": "Dygma Defy wireless",
+    "urls": [
+      {
+        "name": "Homepage",
+        "url": "https://www.dygma.com/defy/"
+      }
+    ]
+  },
+  "language": "en-US",
+  "layerNames": [
+    {
+      "id": 0,
+      "name": "L1"
+    },
+    {
+      "id": 1,
+      "name": "L2"
+    },
+    {
+      "id": 2,
+      "name": "L3"
+    },
+    {
+      "id": 3,
+      "name": "L4"
+    },
+    {
+      "id": 4,
+      "name": "L5"
+    },
+    {
+      "id": 5,
+      "name": "L6"
+    },
+    {
+      "id": 6,
+      "name": "L7"
+    },
+    {
+      "id": 7,
+      "name": "L8"
+    },
+    {
+      "id": 8,
+      "name": "L9"
+    },
+    {
+      "id": 9,
+      "name": "L10"
+    }
+  ],
+  "keymap": [
+    {
+      "keyCode": 53,
+      "label": "`"
+    },
+    {
+      "keyCode": 58,
+      "label": "F1"
+    },
+    {
+      "keyCode": 59,
+      "label": "F2"
+    },
+    {
+      "keyCode": 60,
+      "label": "F3"
+    },
+    {
+      "keyCode": 61,
+      "label": "F4"
+    },
+    {
+      "keyCode": 62,
+      "label": "F5"
+    },
+    {
+      "keyCode": 63,
+      "label": "F6"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 64,
+      "label": "F7"
+    },
+    {
+      "keyCode": 65,
+      "label": "F8"
+    },
+    {
+      "keyCode": 66,
+      "label": "F9"
+    },
+    {
+      "keyCode": 67,
+      "label": "F10"
+    },
+    {
+      "keyCode": 68,
+      "label": "F11"
+    },
+    {
+      "keyCode": 69,
+      "label": "F12"
+    },
+    {
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 82,
+      "label": "↑"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 22709,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "",
+      "verbose": "Next track"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 83,
+      "label": "NUMLOCK",
+      "verbose": "Num Lock"
+    },
+    {
+      "keyCode": 95,
+      "label": "7",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 96,
+      "label": "8",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 97,
+      "label": "9",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 84,
+      "label": "/",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 80,
+      "label": "←"
+    },
+    {
+      "keyCode": 81,
+      "label": "↓"
+    },
+    {
+      "keyCode": 79,
+      "label": "→"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 22710,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "",
+      "verbose": "Prev. track"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 46,
+      "label": "="
+    },
+    {
+      "keyCode": 92,
+      "label": "4",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 93,
+      "label": "5",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 94,
+      "label": "6",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 85,
+      "label": "*",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 89,
+      "label": "1",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 90,
+      "label": "2",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 91,
+      "label": "3",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 87,
+      "label": "+",
+      "extraLabel": "Num"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 54109,
+      "label": "PAIR.",
+      "extraLabel": "BLUET."
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    }
+  ],
+  "colormap": [
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    15,
+    15,
+    8,
+    15,
+    15,
+    15,
+    5,
+    15,
+    8,
+    8,
+    8,
+    15,
+    15,
+    5,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    6,
+    15,
+    15,
+    15,
+    0,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    15,
+    15,
+    13,
+    4,
+    4,
+    4,
+    4,
+    15,
+    15,
+    13,
+    4,
+    4,
+    4,
+    8,
+    14,
+    15,
+    13,
+    4,
+    4,
+    4,
+    15,
+    15,
+    15,
+    15,
+    0,
+    15,
+    15,
+    15,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    15
+  ],
+  "palette": [
+    {
+      "r": 252,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(252, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 10,
+      "b": 255,
+      "rgb": "rgb(0, 10, 255)"
+    },
+    {
+      "r": 0,
+      "g": 255,
+      "b": 214,
+      "rgb": "rgb(0, 255, 214)"
+    },
+    {
+      "r": 250,
+      "g": 255,
+      "b": 0,
+      "rgb": "rgb(250, 255, 0)"
+    },
+    {
+      "r": 244,
+      "g": 1,
+      "b": 255,
+      "rgb": "rgb(244, 1, 255)"
+    },
+    {
+      "r": 243,
+      "g": 117,
+      "b": 255,
+      "rgb": "rgb(243, 117, 255)"
+    },
+    {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(255, 255, 255)"
+    },
+    {
+      "r": 162,
+      "g": 195,
+      "b": 124,
+      "rgb": "rgb(162, 195, 124)"
+    },
+    {
+      "r": 0,
+      "g": 255,
+      "b": 74,
+      "rgb": "rgb(0, 255, 74)"
+    },
+    {
+      "r": 38,
+      "g": 146,
+      "b": 238,
+      "rgb": "rgb(38, 146, 238)"
+    },
+    {
+      "r": 61,
+      "g": 125,
+      "b": 0,
+      "rgb": "rgb(61, 125, 0)"
+    },
+    {
+      "r": 137,
+      "g": 157,
+      "b": 81,
+      "rgb": "rgb(137, 157, 81)"
+    },
+    {
+      "r": 7,
+      "g": 0,
+      "b": 122,
+      "rgb": "rgb(7, 0, 122)"
+    },
+    {
+      "r": 193,
+      "g": 110,
+      "b": 0,
+      "rgb": "rgb(193, 110, 0)"
+    },
+    {
+      "r": 101,
+      "g": 15,
+      "b": 177,
+      "rgb": "rgb(101, 15, 177)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    }
+  ]
+}
