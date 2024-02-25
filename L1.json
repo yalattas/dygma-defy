@@ -80,7 +80,7 @@
       "label": "5"
     },
     {
-      "keyCode": 23785,
+      "keyCode": 22733,
       "label": {
         "key": null,
         "ref": null,
@@ -88,7 +88,7 @@
         "_owner": null
       },
       "extraLabel": "",
-      "verbose": "Volume up"
+      "verbose": "Play / pause"
     },
     {
       "keyCode": 0,
@@ -157,7 +157,7 @@
       "label": "T"
     },
     {
-      "keyCode": 23786,
+      "keyCode": 23785,
       "label": {
         "key": null,
         "ref": null,
@@ -165,7 +165,7 @@
         "_owner": null
       },
       "extraLabel": "",
-      "verbose": "Volume down"
+      "verbose": "Volume up"
     },
     {
       "keyCode": 0,
@@ -235,7 +235,7 @@
       "label": "G"
     },
     {
-      "keyCode": 22733,
+      "keyCode": 23786,
       "label": {
         "key": null,
         "ref": null,
@@ -243,7 +243,7 @@
         "_owner": null
       },
       "extraLabel": "",
-      "verbose": "Play / pause"
+      "verbose": "Volume down"
     },
     {
       "keyCode": 0,
@@ -258,8 +258,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 2097,
-      "label": "|"
+      "keyCode": 49474,
+      "label": "\\",
+      "extraLabel": "SHIFT/"
     },
     {
       "keyCode": 11,
@@ -288,8 +289,9 @@
       "extraLabel": "CTRL/"
     },
     {
-      "keyCode": 49,
-      "label": "\\"
+      "keyCode": 70,
+      "label": "PRINT SCRN",
+      "verbose": "Print Screen"
     },
     {
       "keyCode": 29,
@@ -371,14 +373,12 @@
       "extraLabel": "SHIFT"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 74,
+      "label": "HOME"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
+      "keyCode": 77,
+      "label": "END"
     },
     {
       "keyCode": 44,
@@ -423,18 +423,18 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
+      "keyCode": 75,
+      "label": "PAGE UP",
+      "verbose": "Page Up"
     },
     {
       "keyCode": 82,
       "label": "↑"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 78,
+      "label": "PAGE DOWN",
+      "verbose": "Page Down"
     }
   ],
   "colormap": [
@@ -466,7 +466,7 @@
     2,
     2,
     14,
-    12,
+    0,
     11,
     11,
     6,
