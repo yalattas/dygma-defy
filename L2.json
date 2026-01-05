@@ -80,20 +80,28 @@
       "label": "F5"
     },
     {
+      "keyCode": 68,
+      "label": "F11"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 69,
+      "label": "F12"
+    },
+    {
       "keyCode": 63,
       "label": "F6"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
     },
     {
       "keyCode": 64,
@@ -112,17 +120,8 @@
       "label": "F10"
     },
     {
-      "keyCode": 68,
-      "label": "F11"
-    },
-    {
-      "keyCode": 69,
-      "label": "F12"
-    },
-    {
-      "keyCode": 42,
-      "label": "BACKSPACE",
-      "verbose": "Backspace"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
       "keyCode": 65535,
